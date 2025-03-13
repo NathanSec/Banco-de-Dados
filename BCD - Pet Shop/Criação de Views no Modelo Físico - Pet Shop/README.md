@@ -1,0 +1,2 @@
+#BCD - Pet Shop
+Crie pelo menos 5 views no Modelo Físico do database desenvolvido anteriormente por você e sua equipe. Cada view deve selecionar campos específicos de uma tabela (não usar o asterisco) e ao menos ordenar os resultados, fora alguma condição WHERE que você queira acrescentar.
